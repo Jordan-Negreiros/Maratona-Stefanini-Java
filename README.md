@@ -21,3 +21,12 @@
     - Servidor de Aplicação Tomcat
     - Requisições
     - Servlet
+
+### Dia 03
+    Continuação das explicações sobre Java Web. assuntos abordados:
+    - Rest (Representational State Transfer)
+    - Apache Maven
+    - JAX-RS
+    - Jersey
+    - Verbos HTTP
+    - JSON

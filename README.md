@@ -30,3 +30,10 @@
     - Jersey
     - Verbos HTTP
     - JSON
+
+### Dia 04
+    Final da Semana Java, assuntos abordados:
+    - Injeção de dependências
+    - Testes Unitários
+    - Junit
+    - Mockito
